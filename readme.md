@@ -17,7 +17,4 @@ The generator and discriminator are trained simultaneously in a competitive proc
 - matplotlib
 - tqdm
 
-Install dependencies:
 
-```bash
-pip install -r requirements.txt
